@@ -1,0 +1,1 @@
+##b Containing folder structure of a machine learning project
