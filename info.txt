@@ -9,8 +9,8 @@ command to creaet a conda environment
 
 
 after this to activate this environment you have to run this command
- $conda activate C:\Users\hp\Desktop\ml_project_structure\venv
+ $ conda activate C:\Users\hp\Desktop\ml_project_structure\venv
 
 
  to deactivate this environment run this
- conda deactivate
+ $ conda deactivate
